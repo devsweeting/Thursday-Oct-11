@@ -2,3 +2,21 @@ h1 {
   font-style: italic;
   color: blue;
 }
+
+.jumbotron {
+  background-image: url(https://www.oneyogaglobal.com/wp-content/uploads/2016/07/Bali-Temple-Banner.jpg);
+  background-position: center;
+    text-shadow: 2px 2px 6px white;
+}
+
+body {
+  font-family: fantasy;
+}
+
+h2 :not(panel-title) {
+  text-align: center;
+  text-decoration: underline;
+  font-style: oblique;
+  font-weight: bold;
+  text-emphasis-style: circle;
+}
