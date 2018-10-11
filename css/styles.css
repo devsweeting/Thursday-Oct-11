@@ -13,7 +13,7 @@ body {
   font-family: fantasy;
 }
 
-h2 :not(panel-title) {
+h2 {
   text-align: center;
   text-decoration: underline;
   font-style: oblique;
