@@ -7,3 +7,15 @@
 #crown {
   color: purple;
 }
+
+.gray {
+  background-color: #D3D3D3;
+}
+
+.wikilogo {
+  height: 100px;
+}
+
+h1 h2 {
+  font-family: sans-serif;
+}
